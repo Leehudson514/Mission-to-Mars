@@ -1,11 +1,11 @@
 # Mission-to-Mars
 
 ## Overview
-* The client asked for a tool that would scrape information on Mars from multiple websites and post it on their own centralized page to share.
+* Our client had a need for a tool that would scrape information on Mars from multiple sources to gather and then post on their own website to share.
 
 ## Results
 * The web scraping gathered information and photos from 3 different sites using python and was then posted on a centralized page with html.
-    * This information included the following:
+    * **Web Scrapping** information included the following:
         * Latest news articles about Mars.
         * Facts comparing Earth to Mars.
         * Featured photo from recent photos taken of mars and or it's moon. 
